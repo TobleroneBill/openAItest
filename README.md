@@ -1,3 +1,10 @@
+Using flask, this is a template for a basic app that uses open AI API queries to generate text based on thier text models
+
+This is just so I have a refrence saved somewhere, because I am pretty sure I am going to have to use this later on at somepoint.
+it is kind of gross how it's monetized, but I guess you can't live in a world without money :/
+
+Below is the original guide if you for some reason clone this
+
 # OpenAI API Quickstart - Python example app
 
 This is an example pet name generator app used in the OpenAI API [quickstart tutorial](https://beta.openai.com/docs/quickstart). It uses the [Flask](https://flask.palletsprojects.com/en/2.0.x/) web framework. Check out the tutorial or follow the instructions below to get set up.
